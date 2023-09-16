@@ -14,7 +14,8 @@ We primarily use the Global Terrorism Database (GTD), an open-source database co
 
 1. Clone this repo.
 2. Install required Python libraries (`pip install -r requirements.txt`).
-3. Open a Jupyter Notebook or your preferred IDE to start exploring the data.
+3. make sure to import dataset to your local IDE
+4. Open a Jupyter Notebook or your preferred IDE to start exploring the data.
 
 ## EDA
 
